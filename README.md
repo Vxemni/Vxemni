@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vxemni
 - 🎬 I’m interested in HTML, CSS, horror movies & crime books
-- 💻 I’m currently learning HTML, CSS & English
+- 💻 I’m currently learning HTML, CSS, JavaScript & English
 - 📫 How to reach me vxemni@wp.pl
 
 <!---

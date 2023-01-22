@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vxemni
+- 👋 Hi, I’m Ania
 - 🎬 I’m interested in HTML, CSS, horror movies & crime books
 - 💻 I’m currently learning HTML, CSS, JavaScript & English
 - 📫 How to reach me vxemni@wp.pl
